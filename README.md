@@ -4,19 +4,21 @@ Bem-vindo ao CVV App! Este é um aplicativo mobile desenvolvido com .NET MAUI e 
 
 <h1 align="center"> Demonstração </h1>
 
-Abaixo você pode ver uma demonstração de como o aplicativo funciona:
+<h1 align="center">[![image](https://github.com/user-attachments/assets/b6e6c91f-4fb6-4bcb-b7d7-26b186e7ef6b)
+]</h1>
 
-[![image](https://github.com/user-attachments/assets/b6e6c91f-4fb6-4bcb-b7d7-26b186e7ef6b)
-]
-
-     link:https://www.figma.com/proto/FbJ7ZX04wGpkE9wnl2xjoA/CVV-APP?node-id=20-28&node-type=canvas&t=2csSPgefAZgBADcE-0&scaling=scale-down&content-scaling=fixed&page-id=20%3A27
+<h1 align="center">Abaixo você pode ver uma demonstração de como o aplicativo funciona:</h1>
 
 
-Objetivo do Projeto
+
+[link:https://www.figma.com/proto/FbJ7ZX04wGpkE9wnl2xjoA/CVV-APP?node-id=20-28&node-type=canvas&t=2csSPgefAZgBADcE-0&scaling=scale-down&content-scaling=fixed&page-id=20%3A27]
+
+
+<h1 align="left">Objetivo do Projeto</h1>
 
 Com o aumento da necessidade de suporte emocional, muitas pessoas enfrentam dificuldades em acessar os serviços do CVV rapidamente. O CVV App tem como objetivo simplificar esse processo, permitindo que os usuários façam chamadas de voz, acessem o chat online e obtenham informações sobre o CVV diretamente do seu smartphone.
 
-Funcionalidades
+<h1 align="left">Funcionalidades</h1>
 
 O CVV App integra os serviços do CVV em um único aplicativo, oferecendo as seguintes funcionalidades:
 
@@ -93,17 +95,17 @@ Contribuições
 
 Quer contribuir para o projeto? Sinta-se à vontade para fazer um fork, criar uma nova branch, e submeter um pull request. Todas as contribuições são bem-vindas!
 
-Contato 
+<h1 align="center">Contato</h1> 
 
 Para mais informações, entre em contato com os desenvolvedores:
 
-Douglas Souza Silva - [ddouglss1999@gmail.com]
+<h3 align="left">Douglas Souza Silva - [ddouglss1999@gmail.com]
 
 Guilherme Guimarães - [guiguimaraes906@gmail.com]
 
 Wallison Andrade - [wallisonandrade131@gmail.com]
 
-Victor Augusto - [victorp3augusto@gmail.com]
+Victor Augusto - [victorp3augusto@gmail.com]</h3>
 
 muito obrigado!
 
