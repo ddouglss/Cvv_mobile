@@ -6,7 +6,8 @@ Demonstração
 
 Abaixo você pode ver uma demonstração de como o aplicativo funciona:
 
-[Inserir GIF de demonstração do CVV App]
+[![image](https://github.com/user-attachments/assets/b6e6c91f-4fb6-4bcb-b7d7-26b186e7ef6b)
+]
 
 
 Objetivo do Projeto
