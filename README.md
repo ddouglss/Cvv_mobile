@@ -1,8 +1,8 @@
-    CVV App - Centro de Valorização da Vida
+<h1 align="center"> CVV App - Centro de Valorização da Vida </h1>
 
-Bem-vindo ao CVV App! Este é um aplicativo mobile desenvolvido com .NET MAUI e C#, criado para facilitar o acesso aos serviços de apoio emocional fornecidos pelo Centro de Valorização da Vida (CVV). O CVV oferece apoio emocional gratuito e sigiloso, disponível 24 horas por dia, por telefone, chat e e-mail, com o objetivo de prevenir o suicídio e promover a saúde mental.
+Bem-vindo ao CVV App! Este é um aplicativo mobile desenvolvido com .NET MAUI e C#, criado para facilitar o acesso aos serviços de apoio emocional fornecidos pelo Centro de Valorização da Vida (CVV). O CVV oferece apoio emocional gratuito e sigiloso, disponível 24 horas por dia, por telefone, chat e e-mail, com o objetivo de prevenir o suicídio e promover a saúde mental. Desenvolvido como trabalho final do curso de Desenvolvimento Web (TDS) no Instituto Federal de Brasília - Campus Brasília, com a tutoria da professora Kadidja Oliveira.  
 
-Demonstração
+<h1 align="center"> Demonstração </h1>
 
 Abaixo você pode ver uma demonstração de como o aplicativo funciona:
 
@@ -70,21 +70,42 @@ Interface de Usuário
 A interface foi projetada usando XAML, com um layout simples e intuitivo, onde os botões de ação são organizados verticalmente, proporcionando uma navegação fácil e rápida. O design é responsivo, adaptando-se a diferentes tamanhos de tela.
 
 Ferramentas Utilizadas
-.NET MAUI: Framework utilizado para criar o aplicativo nativo.
-C#: Linguagem principal para a lógica do aplicativo.
-Visual Studio Community: IDE para o desenvolvimento.
-Figma: Ferramenta de prototipagem para o design do app.
-GitHub: Controle de versão e colaboração.
+    .NET MAUI: Framework utilizado para criar o aplicativo nativo.
+    C#: Linguagem principal para a lógica do aplicativo.
+    Visual Studio Community: IDE para o desenvolvimento.
+    Figma: Ferramenta de prototipagem para o design do app.
+    GitHub: Controle de versão e colaboração.
+
 Como Executar o Projeto
 
 1-Clone o repositório:
 
     git clone https://github.com/seu-usuario/cvv-app.git
 
-1-Abra o projeto no Visual Studio.
-2-Instale as dependências necessárias do .NET MAUI.
-3-Execute o aplicativo em um emulador ou dispositivo físico.
+
+2-Abra o projeto no Visual Studio.
+
+3-Instale as dependências necessárias do .NET MAUI.
+
+4-Execute o aplicativo em um emulador ou dispositivo físico.
 
 Contribuições
+
 Quer contribuir para o projeto? Sinta-se à vontade para fazer um fork, criar uma nova branch, e submeter um pull request. Todas as contribuições são bem-vindas!
+
+Contato 
+
+Para mais informações, entre em contato com os desenvolvedores:
+
+Douglas Souza Silva - [ddouglss1999@gmail.com]
+
+Guilherme Guimarães - [guiguimaraes906@gmail.com]
+
+Wallison Andrade - [wallisonandrade131@gmail.com]
+
+Victor Augusto - [victorp3augusto@gmail.com]
+
+muito obrigado!
+
+
 
