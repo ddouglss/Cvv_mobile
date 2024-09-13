@@ -9,6 +9,8 @@ Abaixo você pode ver uma demonstração de como o aplicativo funciona:
 [![image](https://github.com/user-attachments/assets/b6e6c91f-4fb6-4bcb-b7d7-26b186e7ef6b)
 ]
 
+     link:https://www.figma.com/proto/FbJ7ZX04wGpkE9wnl2xjoA/CVV-APP?node-id=20-28&node-type=canvas&t=2csSPgefAZgBADcE-0&scaling=scale-down&content-scaling=fixed&page-id=20%3A27
+
 
 Objetivo do Projeto
 
