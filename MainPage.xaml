@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CvvApp.MainPage" BackgroundColor="#FAFAFA">
+
+    <StackLayout>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="10">
+
+            <ImageButton 
+                x:Name="DuvidaBtn"
+                Clicked="DuvidaBtn_Clicked"
+                Source="questoes.png"
+                WidthRequest="50"
+                HeightRequest="50"
+                HorizontalOptions="EndAndExpand"
+                Margin="0,20,0,45"/>
+
+            <Image
+                Margin="40,0,40,30"
+                Source="logo.png"
+                WidthRequest="355"
+                HeightRequest="238"
+                Aspect="AspectFit" 
+                 />
+
+            <Button
+                x:Name="ChaBtn"
+                ImageSource="icont.png"
+                Text="CHAMADA DE VOZ"
+                TextColor="#ffffff"
+                FontSize="25"
+                FontAttributes="Bold"
+                Clicked="ChaBtn_Clicked" 
+                HorizontalOptions="Fill" 
+                BackgroundColor="#00BBF4"
+                WidthRequest="310"
+                HeightRequest="75"
+                CornerRadius="50"
+                />
+
+            <Button               
+                x:Name="ChatBtn"
+                ImageSource="icon.png"
+                Text="CHAT" 
+                TextColor="#ffffff"
+                FontSize="25"
+                FontAttributes="Bold"
+                Clicked="ChatBtn_Clicked"
+                HorizontalOptions="Fill" 
+                BackgroundColor="#00BBF4" 
+                WidthRequest="310"
+                HeightRequest="75"
+                CornerRadius="50"
+                Margin="10"
+                />
+
+            <BoxView Color="#000000" HeightRequest="1" Margin="30,10" />
+
+            <Label
+                Margin="10,10,10,0"
+                Text="CVV - Centro de Valorização da Vida realiza apoio emocional e prevenção do suicídio."
+                TextColor="#000000"
+                TextDecorations="None"   
+                TextTransform="Default"
+                VerticalTextAlignment="Center"
+                FontAttributes="Bold"
+                FontSize="20"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1"
+                />
+                
+
+            <HorizontalStackLayout>
+                
+                
+                <ImageButton 
+                    Margin="25,40,0,0"
+                    Source="face.png"
+                    x:Name="FaceBtn"
+                    Clicked="FaceBtn_Clicked"
+                    WidthRequest="70"
+                    HeightRequest="70"
+                    VerticalOptions="Fill" />
+                <ImageButton 
+                    Margin="10,40,0,0"
+                    Source="instagram.png"
+                    x:Name="InstaBtn"
+                    Clicked="InstaBtn_Clicked"
+                    WidthRequest="70"
+                    HeightRequest="70"
+                    VerticalOptions="Fill" />
+                <ImageButton
+                    Margin="10,40,0,0"
+                    Source ="youtube.png" 
+                    x:Name="YoutubeBtn"
+                    Clicked="YoutubeBtn_Clicked"
+                    WidthRequest="70"
+                    HeightRequest="70"
+                    VerticalOptions="Fill" />
+                <ImageButton 
+                    Margin="10,40,0,0"
+                    Source="tiktok.png"
+                    x:Name="TikBtn"
+                    Clicked="TikBtn_Clicked"
+                    WidthRequest="70"
+                    HeightRequest="70"
+                    VerticalOptions="Fill" /> 
+
+
+            </HorizontalStackLayout>   
+
+        </VerticalStackLayout>
+    </StackLayout>
+
+</ContentPage>
