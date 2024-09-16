@@ -20,6 +20,11 @@
   <a href="https://www.figma.com/proto/FbJ7ZX04wGpkE9wnl2xjoA/CVV-APP?node-id=20-28&node-type=canvas&t=2csSPgefAZgBADcE-0&scaling=scale-down&content-scaling=fixed&page-id=20%3A27">Clique aqui para visualizar o protótipo no Figma</a>
 </p>
 
+<h2 align="center"> Veja o Aplicativo funcionando: </h2>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1t9rklULcccuuS-tolU1Mk9PMuX5ZZFHw/view?usp=sharing">Clique aqui para visualizar o Vídeo do Aplicativo</a>
+</p>
+
 <h2 align="left">Objetivo do Projeto</h2>
 <p>Com o aumento da necessidade de suporte emocional, muitas pessoas enfrentam dificuldades em acessar os serviços do CVV rapidamente. O CVV App tem como objetivo simplificar esse processo, permitindo que os usuários façam chamadas de voz, acessem o chat online e obtenham informações sobre o CVV diretamente do seu smartphone.</p>
 
