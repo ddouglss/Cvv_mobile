@@ -5,7 +5,7 @@
 <section>
             <h1 align="center">Documentação</h1>
             <p align="center">
-                <a href="https://drive.google.com/file/d/1W46BmMiTqmznhOIl0gFFD_BEH-bSemZP/view?usp=sharing)">Clique aqui para ler a documentação completa do CVV App</a>
+                <a href="https://drive.google.com/file/d/1DtWBoFHUyJboX08aTTFflzYkCoM8q4x6/view?usp=sharing">Clique aqui para ler a documentação completa do CVV App</a>
             </p>
         </section>
 
