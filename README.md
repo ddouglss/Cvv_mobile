@@ -2,6 +2,13 @@
 
 <p>Bem-vindo ao CVV App! Este é um aplicativo mobile desenvolvido com .NET MAUI e C#, criado para facilitar o acesso aos serviços de apoio emocional fornecidos pelo Centro de Valorização da Vida (CVV). O CVV oferece apoio emocional gratuito e sigiloso, disponível 24 horas por dia, por telefone, chat e e-mail, com o objetivo de prevenir o suicídio e promover a saúde mental. Desenvolvido como trabalho final do curso de Desenvolvimento Web (TDS) no Instituto Federal de Brasília - Campus Brasília, com a tutoria da professora Kadidja Oliveira.</p>
 
+<section>
+            <h1 align="center">Documentação</h1>
+            <p align="center">
+                <a href="https://drive.google.com/file/d/1W46BmMiTqmznhOIl0gFFD_BEH-bSemZP/view?usp=sharing)">Clique aqui para ler a documentação completa do CVV App</a>
+            </p>
+        </section>
+
 <h1 align="center">Demonstração</h1>
 
 <p align="center">
